@@ -1,0 +1,4 @@
+I am Ashutosh Kumar Gupta, BTech(DS & AI) 5th sem student, university roll no.:- 2015202.
+I have choose " Machine learning model to predict the multi organ disease siverity in Covid19 patients and outcome".
+In this model I will be working under the guidance of Mr. Kireet Joshi sir.
+To find the disease severity and outcome I will be using various machine learning algorithms to predict the result.
